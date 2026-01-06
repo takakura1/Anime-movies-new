@@ -1,0 +1,51 @@
+.header{
+    background-color:  rgb(219, 159, 68);
+    height: 100px;
+    width: 100%;
+
+}
+li{
+display: inline-block;
+background-color: cyan;
+color: orangered;
+height: 20px;
+padding:20px;
+margin: 10px;
+border-radius: 5px;
+margin-left: 100px;
+text-align: center;
+}
+.landing{
+  background-color: rgb(219, 159, 68);
+    height: 100px;
+    width: 100%;
+}
+*{
+    background-color: rgb(44, 34, 30);
+}
+img{
+    width: 100%;
+    
+}
+video{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
+h3{
+    text-align: center;
+    bottom: auto;
+    color: orangered;
+}
+audio{
+    justify-content: center;
+    display: flex;
+    margin-left: 500px;
+}
+.love{
+    height: 60px;
+    width: 100%;
+    background-color: BLUE;
+}
